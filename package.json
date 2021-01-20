@@ -1,6 +1,7 @@
 {
   "name": "react-grid-pictures",
   "version": "0.1.0",
+  "homepage": "https://elensmith.github.io/react-grid-pictures/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",

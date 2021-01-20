@@ -1,6 +1,8 @@
-## Picture gallery
+## grid picture gallery
 
 ### Проект на gh-pages:
+
+https://elensmith.github.io/react-grid-pictures/
 
 ### Функционал:
 
