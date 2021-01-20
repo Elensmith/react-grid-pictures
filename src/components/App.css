@@ -1,0 +1,8 @@
+.app {
+  text-align: center;
+}
+
+.app__header {
+  color: darkblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
