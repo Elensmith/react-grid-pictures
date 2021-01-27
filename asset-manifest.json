@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-grid-pictures/static/css/main.f9cf7313.chunk.css",
-    "main.js": "/react-grid-pictures/static/js/main.36451e67.chunk.js",
-    "main.js.map": "/react-grid-pictures/static/js/main.36451e67.chunk.js.map",
+    "main.css": "/react-grid-pictures/static/css/main.45219eca.chunk.css",
+    "main.js": "/react-grid-pictures/static/js/main.af1c2a7d.chunk.js",
+    "main.js.map": "/react-grid-pictures/static/js/main.af1c2a7d.chunk.js.map",
     "runtime-main.js": "/react-grid-pictures/static/js/runtime-main.367f6088.js",
     "runtime-main.js.map": "/react-grid-pictures/static/js/runtime-main.367f6088.js.map",
     "static/js/2.60ee0041.chunk.js": "/react-grid-pictures/static/js/2.60ee0041.chunk.js",
@@ -10,24 +10,24 @@
     "static/js/3.87684e94.chunk.js": "/react-grid-pictures/static/js/3.87684e94.chunk.js",
     "static/js/3.87684e94.chunk.js.map": "/react-grid-pictures/static/js/3.87684e94.chunk.js.map",
     "index.html": "/react-grid-pictures/index.html",
-    "static/css/main.f9cf7313.chunk.css.map": "/react-grid-pictures/static/css/main.f9cf7313.chunk.css.map",
+    "static/css/main.45219eca.chunk.css.map": "/react-grid-pictures/static/css/main.45219eca.chunk.css.map",
     "static/js/2.60ee0041.chunk.js.LICENSE.txt": "/react-grid-pictures/static/js/2.60ee0041.chunk.js.LICENSE.txt",
-    "static/media/big_picture1.5ceb54ef.jpg": "/react-grid-pictures/static/media/big_picture1.5ceb54ef.jpg",
-    "static/media/big_picture2.52deedb9.jpg": "/react-grid-pictures/static/media/big_picture2.52deedb9.jpg",
     "static/media/close.888d78eb.svg": "/react-grid-pictures/static/media/close.888d78eb.svg",
-    "static/media/small_picture1.167d94dc.jpg": "/react-grid-pictures/static/media/small_picture1.167d94dc.jpg",
-    "static/media/small_picture2.cf2f8491.jpg": "/react-grid-pictures/static/media/small_picture2.cf2f8491.jpg",
-    "static/media/small_picture3.578da487.jpg": "/react-grid-pictures/static/media/small_picture3.578da487.jpg",
-    "static/media/small_picture4.b748b0a8.jpg": "/react-grid-pictures/static/media/small_picture4.b748b0a8.jpg",
-    "static/media/small_picture5.bbf5e6cf.jpg": "/react-grid-pictures/static/media/small_picture5.bbf5e6cf.jpg",
-    "static/media/small_picture6.eeb1bcda.jpg": "/react-grid-pictures/static/media/small_picture6.eeb1bcda.jpg",
-    "static/media/small_picture7.afc2822e.jpg": "/react-grid-pictures/static/media/small_picture7.afc2822e.jpg",
-    "static/media/small_picture8.9345aaeb.jpg": "/react-grid-pictures/static/media/small_picture8.9345aaeb.jpg"
+    "static/media/photo_1.2716fc48.jpg": "/react-grid-pictures/static/media/photo_1.2716fc48.jpg",
+    "static/media/photo_10.6f55953d.jpg": "/react-grid-pictures/static/media/photo_10.6f55953d.jpg",
+    "static/media/photo_2.19737658.jpg": "/react-grid-pictures/static/media/photo_2.19737658.jpg",
+    "static/media/photo_3.62ccf252.jpg": "/react-grid-pictures/static/media/photo_3.62ccf252.jpg",
+    "static/media/photo_4.ab774eac.jpg": "/react-grid-pictures/static/media/photo_4.ab774eac.jpg",
+    "static/media/photo_5.ce557cf8.jpg": "/react-grid-pictures/static/media/photo_5.ce557cf8.jpg",
+    "static/media/photo_6.4ddb589d.jpg": "/react-grid-pictures/static/media/photo_6.4ddb589d.jpg",
+    "static/media/photo_7.436290c1.jpg": "/react-grid-pictures/static/media/photo_7.436290c1.jpg",
+    "static/media/photo_8.5acd3c3e.jpg": "/react-grid-pictures/static/media/photo_8.5acd3c3e.jpg",
+    "static/media/photo_9.7cf7be08.jpg": "/react-grid-pictures/static/media/photo_9.7cf7be08.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.367f6088.js",
     "static/js/2.60ee0041.chunk.js",
-    "static/css/main.f9cf7313.chunk.css",
-    "static/js/main.36451e67.chunk.js"
+    "static/css/main.45219eca.chunk.css",
+    "static/js/main.af1c2a7d.chunk.js"
   ]
 }
