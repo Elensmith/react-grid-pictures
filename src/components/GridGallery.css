@@ -1,8 +1,8 @@
 .gallery {
   display: grid;
   margin: auto;
-  max-width: 669px;
-  max-height: 689px;
+  max-width: 1200px;
+  max-height: 1200px;
   gap: 9px;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr;

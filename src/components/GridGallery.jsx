@@ -1,29 +1,29 @@
 import React from "react";
 import "./GridGallery.css"
-import big_picture1 from "../images/big_picture1.jpg";
-import big_picture2 from "../images/big_picture2.jpg";
-import small_picture1 from "../images/small_picture1.jpg";
-import small_picture2 from "../images/small_picture2.jpg";
-import small_picture3 from "../images/small_picture3.jpg";
-import small_picture4 from "../images/small_picture4.jpg";
-import small_picture5 from "../images/small_picture5.jpg";
-import small_picture6 from "../images/small_picture6.jpg";
-import small_picture7 from "../images/small_picture7.jpg";
-import small_picture8 from "../images/small_picture8.jpg";
+import photo_1 from "../images/photo_1.jpg";
+import photo_2 from "../images/photo_2.jpg";
+import photo_3 from "../images/photo_3.jpg";
+import photo_4 from "../images/photo_4.jpg";
+import photo_5 from "../images/photo_5.jpg";
+import photo_6 from "../images/photo_6.jpg";
+import photo_7 from "../images/photo_7.jpg";
+import photo_8 from "../images/photo_8.jpg";
+import photo_9 from "../images/photo_9.jpg";
+import photo_10 from "../images/photo_10.jpg";
 
 function GridGallery(props) {
   return (
     <div className="gallery">
-       <img src={big_picture1} alt="" className="gallery__image1" onClick={props.onClick}/>
-       <img src={small_picture1} alt="" className="gallery__image2" onClick={props.onClick}/>
-       <img src={small_picture2} alt="" className="gallery__image3"onClick={props.onClick}/>
-       <img src={small_picture3} alt="" className="gallery__image4" onClick={props.onClick}/>
-       <img src={small_picture4} alt="" className="gallery__image5" onClick={props.onClick}/>
-       <img src={big_picture2} alt="" className="gallery__image6" onClick={props.onClick}/>
-       <img src={small_picture5} alt="" className="gallery__image7" onClick={props.onClick}/>
-       <img src={small_picture6} alt="" className="gallery__image8" onClick={props.onClick}/>
-       <img src={small_picture7} alt="" className="gallery__image9" onClick={props.onClick}/>
-       <img src={small_picture8} alt="" className="gallery__image10" onClick={props.onClick}/>
+       <img src={photo_9} alt="" className="gallery__image1" onClick={props.onClick}/>
+       <img src={photo_2} alt="" className="gallery__image2" onClick={props.onClick}/>
+       <img src={photo_3} alt="" className="gallery__image3"onClick={props.onClick}/>
+       <img src={photo_4} alt="" className="gallery__image4" onClick={props.onClick}/>
+       <img src={photo_5} alt="" className="gallery__image5" onClick={props.onClick}/>
+       <img src={photo_6} alt="" className="gallery__image6" onClick={props.onClick}/>
+       <img src={photo_7} alt="" className="gallery__image7" onClick={props.onClick}/>
+       <img src={photo_8} alt="" className="gallery__image8" onClick={props.onClick}/>
+       <img src={photo_1} alt="" className="gallery__image9" onClick={props.onClick}/>
+       <img src={photo_10} alt="" className="gallery__image10" onClick={props.onClick}/>
     </div>
   );
 }

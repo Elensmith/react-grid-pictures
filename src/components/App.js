@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1 className="app__header">grid gallery</h1>
+      <h1 className="app__header">hello world</h1>
       <GridGallery 
       onClick={handleImageClick}/>
       {isPopupOpen 
